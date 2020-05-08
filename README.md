@@ -3,6 +3,11 @@
     <img height="auto" width="50%" src="https://compiegne-geek-convention.fr/files/logo.svg" />
 </p>
 <hr>
+<p align="center">
+<img src="https://badgen.net/github/last-commit/epikcloudfr/eventframe">
+<img src="https://badgen.net/github/release/epikcloudfr/eventframe">
+<img src="https://badgen.net/github/stars/epikcloudfr/eventframe">
+</p>
 <p align="center">Projet open-source de création et gestion d'accréditation pour votre évènement</p>
 
 
