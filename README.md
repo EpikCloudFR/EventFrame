@@ -1,7 +1,10 @@
-# EventFrame.
-Projet open-source de création et gestion d'accréditation pour un évènement
+<p align="center">
+    <img height="auto" width="60%" src="https://compiegne-geek-convention.fr/files/logo.svg" />
+</p>
 
-Ce projet sera ouvert à tous une fois la première version du projet fonctionnelle sortie.
+<p align="center">Projet open-source de création et gestion d'accréditation pour votre évènement</p>
+
+
 
 # Idées
 Dans ce projet sera intégré :
