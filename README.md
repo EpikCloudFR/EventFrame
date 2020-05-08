@@ -14,7 +14,7 @@
 
 # Idées
 Dans ce projet sera intégré :
-- Un système de compte complet pour la création et la gestion d'accréditation
+- Un système de compte complet pour la création et la gestion d'accréditations
 - Page de maintenance / page de fermeture
 - Formulaire personnalisé pour la presse
 - Création de catégories différentes d'accréditations
